@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/words_sugarfrosted/__init__.py
+src/words_sugarfrosted/words.py
+src/words_sugarfrosted.egg-info/PKG-INFO
+src/words_sugarfrosted.egg-info/SOURCES.txt
+src/words_sugarfrosted.egg-info/dependency_links.txt
+src/words_sugarfrosted.egg-info/top_level.txt
